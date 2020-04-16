@@ -1,5 +1,6 @@
 # :sunrise_over_mountains: I know I have to stay inside but I still want to know what's the weather okay ?!
 
+![Preview](https://raw.githubusercontent.com/JeanBarriere/weather-web-kata/master/public/preview.png?token=ACW46AUXH7GQLCKVG3WODTK6UIHBI)
 
 ## Resources
 
